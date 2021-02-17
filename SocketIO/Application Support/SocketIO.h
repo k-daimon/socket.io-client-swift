@@ -1,9 +1,8 @@
 //
-//  SocketIO-iOS.h
-//  SocketIO-iOS
+//  SocketIO.h
+//  SocketIO
 //
-//  Created by Nacho Soto on 7/11/15.
-//
+//  Created by Nacho Soto on 2021/02/17.
 //
 
 #import <UIKit/UIKit.h>
